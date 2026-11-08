@@ -1,4 +1,4 @@
-# Unbeatable Tic-Tac-Toe AI 🤖❌⭕
+# AI Tic-Tac-Toe 🤖❌⭕
 
 A command-line implementation of the classic Tic-Tac-Toe game featuring an intelligent AI opponent powered by the **Minimax algorithm**. The AI calculates optimal moves recursively, making it completely unbeatable—you can either tie or lose!
 
