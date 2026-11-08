@@ -39,7 +39,8 @@ Plaintext
 -----------
  4 | 5 | 6 
 -----------
- 7 | 8 | 9 
+7 | 8 | 9
+-----------
 
     When prompted, type a number from 1 to 9 to place your 'X' in that cell.
 
