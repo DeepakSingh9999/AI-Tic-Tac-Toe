@@ -6,7 +6,7 @@ A command-line implementation of the classic Tic-Tac-Toe game featuring an intel
 
 ## 🧑🏻‍💻 Demo
 
-
+<img width="957" height="1137" alt="Image" src="https://github.com/user-attachments/assets/a3a7ce26-f30d-45e7-8a61-1e1df54c5341" />
 
 ---
 
